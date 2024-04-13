@@ -3,6 +3,9 @@ Galaxy
 
 ![Vite + Vue - Google Chrome 2024-04-13 13_29_09](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/146260e3-c5b3-4710-a22b-a227025cc74e)
 
+Haunted house
+
+![image](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/cc3ef93b-bc05-466a-9f12-8683d3c2afda)
 
 
 
