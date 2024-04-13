@@ -1,10 +1,11 @@
 <script setup>
-import ChinaMap from './views/ChinaMap/index.vue'
+// import ChinaMap from './views/ChinaMap/index.vue'
+import HauntedHouse from './views/HauntedHouse/index.vue'
 </script>
 
 <template>
   
-  <ChinaMap />
+  <HauntedHouse />
 </template>
 
 <style scoped>
