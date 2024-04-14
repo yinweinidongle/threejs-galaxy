@@ -7,6 +7,11 @@ Haunted house
 
 ![image](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/cc3ef93b-bc05-466a-9f12-8683d3c2afda)
 
+Mix html
+
+![Vite + Vue - Google Chrome 2024-04-14 11_59_00](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/bcbe78e7-4934-4f1d-9a3d-07f5d6a780e3)
+
+
 
 
 # Vue 3 + Vite
