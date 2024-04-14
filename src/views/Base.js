@@ -11,7 +11,8 @@ export default class Base{
         this.renderer = new THREE.WebGLRenderer({antialias:true})
         this.renderer.setSize(window.innerWidth,window.innerHeight)
         this.renderer.setPixelRatio(Math.min(window.devicePixelRatio,2))
-        this.renderer.setClearColor('#262837')
+        //this.renderer.setClearColor('#262837') //Haunted house
+        this.renderer.setClearColor('#00feee')
         this.renderer.shadowMap.enabled = true;
         this.renderer.shadowMap.type = THREE.PCFSoftShadowMap; // default 
 
@@ -30,7 +31,6 @@ export default class Base{
 
     addAmbientLight(intensity=0.5,color=0xffffff){
         const light = new THREE.AmbientLight(color,intensity)
-        light.castShadow = true
         this.scene.add(light)
     }
 
