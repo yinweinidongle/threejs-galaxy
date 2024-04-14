@@ -11,6 +11,12 @@ Mix html
 
 ![Vite + Vue - Google Chrome 2024-04-14 11_59_00](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/bcbe78e7-4934-4f1d-9a3d-07f5d6a780e3)
 
+Raging sea
+
+![Vite + Vue - Google Chrome 2024-04-14 16_52_50](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/938adf62-8e6b-4d87-85d9-aa1d7e05c520)
+![Vite + Vue - Google Chrome 2024-04-14 16_53_49](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/9e3ee9f5-0d02-4aae-8616-e91a97d7eb3d)
+
+
 
 
 
