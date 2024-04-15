@@ -1,7 +1,7 @@
 <script setup>
 import {onMounted} from "vue";
 import * as THREE from 'three'
-import Base from "./Base";
+import Base from "../Base";
 import { OrbitControls } from 'three/addons/controls/OrbitControls.js';
 import {GUI} from "three/examples/jsm/libs/lil-gui.module.min.js"
 
