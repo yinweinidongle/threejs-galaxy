@@ -17,6 +17,10 @@ Raging sea
 ![Vite + Vue - Google Chrome 2024-04-14 16_53_49](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/9e3ee9f5-0d02-4aae-8616-e91a97d7eb3d)
 
 
+Farmland scene
+![image](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/1046b7fa-33ff-48ae-924d-8879ee7d076b)
+
+
 
 
 
