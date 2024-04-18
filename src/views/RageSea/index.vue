@@ -45,6 +45,7 @@ onMounted(()=>{
 
             uDepthColor:{value:new THREE.Color(debugObject.depthColor)},
             uSurfaceColor:{value:new THREE.Color(debugObject.surfaceColor)},
+            
 
             uColorOffset:{value:0.08},
             uColorMultiplier:{value:5},
