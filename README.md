@@ -20,6 +20,10 @@ Raging sea
 Farmland scene
 ![image](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/1046b7fa-33ff-48ae-924d-8879ee7d076b)
 
+Shader demo
+![image](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/69be8483-6467-434b-a0a3-b502428ef87c)
+
+
 
 
 
