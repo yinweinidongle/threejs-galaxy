@@ -133,7 +133,7 @@ void main() {
   vec3 uvColor = vec3(vUv,0.4);
   vec3 mixColor = mix(blackColor,uvColor,strength);
 
-  gl_FragColor = vec4(mixColor,1.0);
+  gl_FragColor = vec4(normal,1.0);
   
   
 }

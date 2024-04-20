@@ -8,12 +8,14 @@
 //import Transformers from './views/Transformers/index.vue'
 // import Pipes from './views/Pipes/index.vue'
 // import ShaderDemo from './views/ShaderDemo/index.vue'
-import ShaderDemo01 from './views/ShaderDemo01/index.vue'
+// import ShaderDemo01 from './views/ShaderDemo01/index.vue'
+// import ShaderDemo02 from './views/ShaderDemo02/index.vue'
+import ShaderDemo03 from './views/ShaderDemo03/index.vue'
 </script>
 
 <template>
   
-  <ShaderDemo01 />
+  <ShaderDemo03 />
 </template>
 
 <style scoped>
