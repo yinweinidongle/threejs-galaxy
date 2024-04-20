@@ -23,6 +23,10 @@ Farmland scene
 Shader demo
 ![image](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/69be8483-6467-434b-a0a3-b502428ef87c)
 
+Starship demo
+![starship](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/629f3f66-f463-462b-8152-e3d31e96efcc)
+
+
 
 
 
@@ -35,3 +39,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 ## Recommended IDE Setup
 
 - [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+- 
