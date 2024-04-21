@@ -26,6 +26,10 @@ Shader demo
 Starship demo
 ![starship](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/629f3f66-f463-462b-8152-e3d31e96efcc)
 
+Particles morphing
+![微信截图_20240421230258](https://github.com/yinweinidongle/threejs-galaxy/assets/18652091/f4d6ec61-e33c-49ec-8271-35861e9d5166)
+
+
 
 
 
