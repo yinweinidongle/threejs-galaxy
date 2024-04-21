@@ -10,12 +10,18 @@
 // import ShaderDemo from './views/ShaderDemo/index.vue'
 // import ShaderDemo01 from './views/ShaderDemo01/index.vue'
 // import ShaderDemo02 from './views/ShaderDemo02/index.vue'
-import ShaderDemo03 from './views/ShaderDemo03/index.vue'
+
+//starship
+//import ShaderDemo03 from './views/ShaderDemo03/index.vue'
+//fireworks
+// import ShaderDemo04 from './views/ShaderDemo04/index.vue'
+//particles transform
+import ShaderDemo05 from './views/ShaderDemo05/index.vue'
 </script>
 
 <template>
   
-  <ShaderDemo03 />
+  <ShaderDemo05 />
 </template>
 
 <style scoped>

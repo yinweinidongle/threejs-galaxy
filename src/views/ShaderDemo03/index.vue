@@ -15,7 +15,7 @@ import holographicVertexShader from './shader/holographic/vertex.glsl?raw'
 import holographicFragmentShader from './shader/holographic/fragment.glsl?raw'
 
 
-let base,controls,gui,clock,planeMaterial,mirror,mirror1,portalLightMaterial,portalLightMaterial1,loaderTractorFlag,loaderTractorFlag1,water,sun,sphere,planeMesh,material;
+let base,controls,gui,clock,planeMaterial,mirror,mirror1,portalLightMaterial,portalLightMaterial1,loaderTractorFlag,loaderTractorFlag1,water,sun,sphere,planeMesh,material,points;
 
 
 onMounted(()=>{
@@ -84,7 +84,7 @@ onMounted(()=>{
 
     let geometry = null
     
-    let points = null
+    points = null
     clock = new THREE.Clock()
 
     const generateGalaxy = ()=>{
@@ -330,7 +330,7 @@ function update() {
 
     if(loaderTractorFlag){
         material.uniforms.uTime.value = elapsedTime
-  
+        
         portalLightMaterial.uniforms.uTime.value = elapsedTime
         water.material.uniforms[ 'time' ].value += 1.0 / 60.0;
         planeMesh.rotation.y = elapsedTime * 0.1
@@ -338,15 +338,20 @@ function update() {
         planeMesh.position.y = Math.sin(elapsedTime)
         sphere.position.y = Math.sin(elapsedTime)
 
-        mirror.position.z = -elapsedTime * 1
-        sphere.position.z = -elapsedTime * 1
-        planeMesh.position.z = -elapsedTime * 1
+        mirror.position.z = -elapsedTime * 0.1
+        sphere.position.z = -elapsedTime * 0.1
+        planeMesh.position.z = -elapsedTime * 0.1
 
-        base.camera.position.z = -elapsedTime * 0.5
+        base.camera.position.z = -elapsedTime * 0.05
+
+
+        
         
 
         base.camera.lookAt(mirror.position)
     }
+
+    
     
     
 
