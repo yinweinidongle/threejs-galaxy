@@ -16,12 +16,15 @@
 //fireworks
 // import ShaderDemo04 from './views/ShaderDemo04/index.vue'
 //particles transform
-import ShaderDemo05 from './views/ShaderDemo05/index.vue'
+// import ShaderDemo05 from './views/ShaderDemo05/index.vue'
+// import ShaderDemo06 from './views/ShaderDemo06/index.vue'
+// import Earth from './views/Earth/index.vue'
+import ParticlesAnimation from './views/ParticlesAnimation/index.vue'
 </script>
 
 <template>
   
-  <ShaderDemo05 />
+  <ParticlesAnimation />
 </template>
 
 <style scoped>
