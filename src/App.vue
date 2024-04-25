@@ -19,12 +19,13 @@
 // import ShaderDemo05 from './views/ShaderDemo05/index.vue'
 // import ShaderDemo06 from './views/ShaderDemo06/index.vue'
 // import Earth from './views/Earth/index.vue'
-import ParticlesAnimation from './views/ParticlesAnimation/index.vue'
+// import ParticlesAnimation from './views/ParticlesAnimation/index.vue'
+import WobblySphere from './views/WobblySphere/index.vue'
 </script>
 
 <template>
   
-  <ParticlesAnimation />
+  <WobblySphere />
 </template>
 
 <style scoped>
